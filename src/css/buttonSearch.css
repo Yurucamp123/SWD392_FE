@@ -1,0 +1,10 @@
+.custom-search-button .ant-btn-primary {
+    background-color: #1890ff;
+    border-color: #1890ff;
+    color: #fff;
+}
+
+.custom-search-button .ant-btn-primary:hover {
+    background-color: #0050b3;
+    border-color: #0050b3;
+}
