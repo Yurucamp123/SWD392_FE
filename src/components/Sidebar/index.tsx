@@ -194,6 +194,7 @@ const Sidebar = ({ sidebarOpen, setSidebarOpen }: SidebarProps) => {
                     </>
                   }
                 </SidebarLinkGroup>
+
               )}
               {(checkStaffRole() || checkManagerRole()) && <>
                 <SidebarLinkGroup
