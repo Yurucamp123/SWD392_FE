@@ -265,7 +265,6 @@ const Sidebar = ({ sidebarOpen, setSidebarOpen }: SidebarProps) => {
                                 Lots
                               </NavLink>
                             </li>
-
                             <li>
                               <NavLink
                                 to={`/${checkStaffRole() ? 'staff' : 'manager'}/products`}
