@@ -274,6 +274,7 @@ const Sidebar = ({ sidebarOpen, setSidebarOpen }: SidebarProps) => {
                                   (isActive && '!text-white')
                                 }
                               >
+
                                 <ProductOutlined />
                                 Products
                               </NavLink>
